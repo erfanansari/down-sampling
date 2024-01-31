@@ -16,6 +16,12 @@ This project implements a two-dimensional Fast Fourier Transform (FFT) for image
 ### Input/Output
 - **Input:** An image file named `input.jpg`.
 - **Output:** Processed image saved as `output.jpg`.
+
+### Contributing
+Feel free to fork this project and contribute. Please send a pull request for any improvements or bug fixes.
+
+License
+### MIT License
 ### Author
 [Erfan Ansari](https://github.com/erfanansari) - 991406504
 
